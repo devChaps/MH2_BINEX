@@ -12,6 +12,8 @@ Supports:
 Monster Hunter Dos(JP)
 Monster Hunter Dos-2 (JP)
 
+![Alt text](H:\C# development\Monster Hunter 2(Dos)\MH2_BINEX\MH2_BINEX\MH2_BINEX\bin\preview.png?raw=true "Preview")
+
 
 
 
